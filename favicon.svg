@@ -1,1 +1,8 @@
-²ø1šYì
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="A.K/79">
+  <title>A.K/79</title>
+  <rect width="64" height="64" rx="14" fill="#06090f"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="#243447" stroke-width="2"/>
+  <path d="M14 16h36" stroke="#67d7ff" stroke-width="3" stroke-linecap="round"/>
+  <text x="32" y="35" text-anchor="middle" fill="#eef5ff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="1">A.K</text>
+  <text x="32" y="52" text-anchor="middle" fill="#9aa8bb" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="1">/79</text>
+</svg>
