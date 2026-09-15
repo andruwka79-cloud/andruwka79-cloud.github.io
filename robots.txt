@@ -1,3 +1,4 @@
 User-Agent: *
 Disallow: /
 
+Sitemap: https://wizardak79.com/sitemap.xml
