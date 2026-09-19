@@ -31,6 +31,16 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://wizardak79.com/pilot/</loc>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://wizardak79.com/status/</loc>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
 <loc>https://wizardak79.com/contact/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
