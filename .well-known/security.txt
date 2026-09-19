@@ -1,0 +1,5 @@
+Contact: https://wizardak79.com/contact/
+Canonical: https://wizardak79.com/.well-known/security.txt
+Policy: https://wizardak79.com/trust/
+Preferred-Languages: en, ru, uk
+Expires: 2027-09-19T00:00:00Z
